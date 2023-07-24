@@ -1,0 +1,11 @@
+.header{
+    background-color: peru;
+    color: white;
+    padding: 15px;
+}
+
+.text{
+    text-align: justify;
+    padding: 20px;
+    background-color: powderblue;
+}
