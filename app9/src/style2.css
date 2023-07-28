@@ -1,0 +1,20 @@
+.heading1{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading2{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading3{
+    background-color: green;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}

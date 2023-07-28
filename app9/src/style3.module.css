@@ -1,0 +1,20 @@
+.heading1{
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.heading2{
+    background-color: coral;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.heading3{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
