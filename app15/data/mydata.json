@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "fname": "KESHVI",
+      "lname": "purohit",
+      "city": "Rajkot",
+      "email": "keshvi@gmail.com",
+      "phone": "9898107057",
+      "id": 5
+    },
+    {
+      "fname": "Amee",
+      "lname": "popat",
+      "city": "Bangluru",
+      "email": "amee@dsu.edu.in",
+      "phone": "8888885555",
+      "id": 6
+    },
+    {
+      "fname": "Pranjal",
+      "lname": "chandravadiya",
+      "city": "Ahamdabad",
+      "email": "pranjal@nirma.edu.in",
+      "phone": "9988776655",
+      "id": 7
+    }
+  ]
+}
